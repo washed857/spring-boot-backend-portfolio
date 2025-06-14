@@ -1,0 +1,42 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Maven build directory
+target/
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# IDE config (IntelliJ, Eclipse, VSCode, NetBeans)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.nb-gradle/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Ignore generated docs, uploads, and runtime folders (ako koristiš)
+logs/
+uploads/
