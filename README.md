@@ -37,6 +37,17 @@ The repository is intended exclusively for code review and technical demonstrati
 
 ---
 
+## Database ER Diagram
+
+A partial preview of the core database schema is shown below (click to enlarge).  
+Due to the size of the schema (>50 tables), the full ER diagram is available as a PDF.
+
+![Database ER Diagram](docs/nms_core_schema.png)
+
+> **Download the [full PDF with all tables and relationships](docs/nms_core_schema.pdf) for detailed inspection.**
+
+
+
 ## Database Schema Auto-Update
 
 For demo and portfolio purposes, this project is configured with:
