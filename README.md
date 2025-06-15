@@ -216,7 +216,8 @@ A sample Grafana dashboard (JVM/Micrometer):
 
 > **Note:**  
 > Some panels display "No data" as this screenshot is from a development environment with limited workloads and integrations enabled.  
-> Full observability, alerting, and production monitoring scripts (including advanced metrics and alerting) are available in the private repository and upon request for qualified clients.
+> Full observability, alerting, and production monitoring scripts (including advanced metrics and alerting) are available in the private repository and upon request for qualified clients.  
+> **Business-oriented dashboards** (with high-level system and workflow health metrics for managers and end-users) can be provided or customized for client needs.
 
 ## Portfolio & Contact
 
